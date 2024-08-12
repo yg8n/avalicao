@@ -264,3 +264,47 @@ Validação de Objetivos: Confirmação de que o produto final atende aos objeti
 Nosso objetivo é garantir que o produto final não apenas atenda aos requisitos técnicos e funcionais, mas também entregue valor real para os usuários finais e para a organização como um todo.
 
 Estamos confiantes de que, com o esforço contínuo e a dedicação de cada um, atingiremos a excelência na entrega deste projeto. Agradecemos a colaboração de todos e estamos à disposição para esclarecer quaisquer dúvidas e fornecer o suporte necessário durante esta fase final.
+
+---
+
+Critérios de Avaliação e Perguntas
+1. Funcionalidade
+A aplicação atende a todos os requisitos funcionais descritos no escopo do projeto?
+Todos os casos de uso principais foram implementados e testados?
+Existem falhas ou bugs conhecidos que ainda não foram corrigidos?
+A aplicação lida corretamente com entradas inválidas ou imprevistas?
+2. Qualidade do Código
+O código está estruturado de maneira lógica e modular?
+O código segue as convenções de nomenclatura e estilo estabelecidas pelo time ou pela organização?
+Há comentários e documentação suficientes para facilitar a compreensão e manutenção do código?
+O código é eficiente em termos de desempenho e uso de recursos?
+3. UI/UX (Interface do Usuário/Experiência do Usuário)
+A interface do usuário é intuitiva e fácil de usar para o público-alvo?
+O design visual é atraente e consistente com as diretrizes da marca ou design estabelecido?
+A navegação pela aplicação é fluida e sem interrupções?
+Existe alguma dificuldade ou confusão identificada durante a interação com a interface?
+4. Melhores Práticas
+As melhores práticas de codificação estão sendo seguidas, incluindo a utilização de princípios SOLID e design patterns adequados?
+O tratamento de erros e exceções está bem implementado e fornece feedback útil ao usuário?
+As práticas de segurança são seguidas, como validação de entradas e proteção contra ataques comuns (ex.: SQL Injection, XSS)?
+O projeto está preparado para futuras manutenções e expansões?
+5. Uso do Git
+O repositório Git está bem organizado, com branches claros e estruturados?
+As mensagens de commit são claras, descritivas e seguem um padrão consistente?
+O histórico de commits é fácil de seguir e reflete as alterações feitas no projeto de maneira lógica?
+O controle de versão é utilizado de forma eficiente para colaboração entre os membros da equipe?
+6. Testes
+Quais tipos de testes foram realizados (unitários, integração, funcional, etc.)?
+Existe uma cobertura adequada de testes para as principais funcionalidades da aplicação?
+Os testes foram documentados e os resultados foram registrados e analisados?
+Há um processo estabelecido para a execução de testes automáticos (se aplicável)?
+7. Deploy
+O processo de deploy está documentado e é reproduzível?
+Existem scripts ou ferramentas automatizadas para facilitar o deploy contínuo e a integração contínua?
+O ambiente de produção está configurado corretamente e é monitorado para garantir a operação estável?
+O processo de rollback está planejado e testado para garantir a recuperação em caso de falhas?
+8. Metodologia Ágil
+A metodologia ágil escolhida (Scrum, Kanban, etc.) foi aplicada corretamente durante o desenvolvimento?
+As cerimônias ágeis (reuniões diárias, sprints, retrospectivas, etc.) foram realizadas e documentadas?
+O backlog do projeto foi gerido de forma eficaz, com priorização e ajuste contínuo das tarefas?
+O time está alinhado com os objetivos e entregas estabelecidas nas iterações?
